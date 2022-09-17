@@ -1,0 +1,16 @@
+We only have 2hrs testing time in week 4, so we need to use the time efficiently.
+
+(1) Verify if the 'fixed code' works or not.
+
+If it does not work:
+  - Comment out the 'off the line' section to check the rotating parts
+  - Check the speed constants
+  - Check the rotating left & right time and interval
+
+After this, the result should be back to the original (goes off the line often but works) solution.
+
+(2) Start increasing the speed of the robot.
+Remember:
+  - When the speed increases, the time that the robot rotates should decrease.
+
+(3) Remember to take video and document after any major change.
