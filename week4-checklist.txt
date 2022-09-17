@@ -14,3 +14,5 @@ Remember:
   - When the speed increases, the time that the robot rotates should decrease.
 
 (3) Remember to take video and document after any major change.
+
+(4) See if we can add the IR Controller functionality to our final code.
