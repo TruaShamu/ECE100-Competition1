@@ -1,3 +1,4 @@
+//works
 //Define L298N Dual H-Bridge Motor Controller Pins
 /*From left to right, connect to D3,A1-A3 ,D10*/
 #define LFSensor_0 A0  //OLD D3
